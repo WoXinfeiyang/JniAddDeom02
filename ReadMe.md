@@ -1,4 +1,4 @@
-#JniAddDeom02
+# JniAddDeom02
 使用CMake构建,具体可以参考如下文章
 
 [向您的项目添加 C 和 C++ 代码](https://developer.android.com/studio/projects/add-native-code)
